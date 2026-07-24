@@ -12,8 +12,6 @@ return Array.from(new Uint8Array(hash))
 
 }
 
-// Register
-
 const registerForm=document.getElementById("registerForm");
 
 if(registerForm){
@@ -80,7 +78,6 @@ location.href="login.html";
 
 }
 
-// Login
 
 const loginForm=document.getElementById("loginForm");
 
@@ -127,8 +124,6 @@ location.href="dashboard.html";
 });
 
 }
-
-// Dashboard
 
 if(location.pathname.includes("dashboard.html")){
 
