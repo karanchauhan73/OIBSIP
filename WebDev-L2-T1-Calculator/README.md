@@ -36,7 +36,7 @@ The calculator was developed without using JavaScript's `eval()` function. Inste
 ## 📂 Project Structure
 
 ```text
-WebDev-L1-Calculator/
+WebDev-L2-T1-Calculator/
 │
 ├── index.html
 ├── style.css
