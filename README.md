@@ -51,9 +51,9 @@ A client-side authentication system with user registration, password validation,
 OIBSIP/
 │
 ├── WebDev-L2-T1-Calculator/
-├── WEbDev-L2-T2-TributePage/
+├── WebDev-L2-T2-TributePage/
 ├── WebDev-L2-T3-To-Do web app/
-└── WEbDev-L2-T4-login Authentication/
+└── WebDev-L2-T4-login Authentication/
 ```
 
 ## 🎯 Internship
