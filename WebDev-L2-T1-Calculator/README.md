@@ -51,7 +51,7 @@ WebDev-L2-T1-Calculator/
 ## 🚀 How to Run the Project
 
 1. Clone or download this repository.
-2. Open the `WebDev-L1-Calculator` folder.
+2. Open the `WebDev-L2-T1-Calculator` folder.
 3. Open the `index.html` file in any modern web browser.
 4. Use the calculator buttons to perform arithmetic operations.
 
