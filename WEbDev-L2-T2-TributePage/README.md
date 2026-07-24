@@ -41,7 +41,7 @@ WebDev-L2-T2-TributePage/
 ## 🚀 How to Run the Project
 
 1. Clone or download the repository.
-2. Open the `WebDev-L1-TributePage` folder.
+2. Open the `WebDev-L2-T2-TributePage` folder.
 3. Make sure the image file is present in the project folder.
 4. Open `index.html` in any modern web browser.
 5. Explore the tribute page.
