@@ -1,1 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To-Do Web App</title>
 
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+
+    <h1>📝 To-Do List</h1>
+
+    <div class="input-box">
+        <input type="text" id="taskInput" placeholder="Enter a task">
+        <button id="addBtn">Add Task</button>
+    </div>
+
+    <div class="lists">
+
+        <div class="box">
+            <h2>Pending Tasks</h2>
+            <p id="pendingCount">0 Pending</p>
+
+            <ul id="pendingList"></ul>
+
+            <p id="pendingEmpty">No pending tasks.</p>
+        </div>
+
+        <div class="box">
+            <h2>Completed Tasks</h2>
+            <p id="completedCount">0 Completed</p>
+
+            <ul id="completedList"></ul>
+
+            <p id="completedEmpty">No completed tasks.</p>
+        </div>
+
+    </div>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
