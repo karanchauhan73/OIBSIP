@@ -57,7 +57,7 @@ For client-side data storage, the application uses browser `localStorage`. Passw
 ## 📂 Project Structure
 
 ```text
-WEbDev-L2-T4-login Authentication/
+WebDev-L2-T4-login Authentication/
 │
 ├── register.html
 ├── login.html
@@ -71,7 +71,7 @@ WEbDev-L2-T4-login Authentication/
 ## 🚀 How to Run the Project
 
 1. Clone or download the repository.
-2. Open the `WEbDev-L2-T4-login Authentication` folder.
+2. Open the `WebDev-L2-T4-login Authentication` folder.
 3. Open `register.html` in a modern web browser.
 4. Create a new user account.
 5. Login using the registered credentials.
@@ -229,6 +229,6 @@ The objective of this project is to build a simple authentication system that de
 
 This project was developed as part of:
 
-**OIBSIP Web Development Internship — Level 1, Task 4**
+**OIBSIP Web Development Internship — Level 2, Task 4**
 
 **Built using HTML5, CSS3, and Vanilla JavaScript.**
