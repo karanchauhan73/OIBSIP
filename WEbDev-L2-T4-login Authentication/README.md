@@ -229,6 +229,6 @@ The objective of this project is to build a simple authentication system that de
 
 This project was developed as part of:
 
-**OIBSIP Web Development Internship — Level 1, Task 4**
+**OIBSIP Web Development Internship — Level 2, Task 4**
 
 **Built using HTML5, CSS3, and Vanilla JavaScript.**
